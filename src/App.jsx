@@ -54,7 +54,7 @@ function App() {
       <>
       <div className='relative'>
         <div className=" relative z-1 text-yellow-900  bg-[url('https://img.freepik.com/free-vector/digital-rupee-concept-technology-background_1017-36657.jpg?t=st=1718597324~exp=1718600924~hmac=2de83807064d2fbbc4618d60096d31632862cf2dc60f03e1841e3e43830ac261&w=1060')]  bg-no-repeat bg-cover h-screen w-100 flex justify-center items-center">
-      <div className='bg-black/50 w-full border border-spacing-x-11 relative z-10 h-screen flex justify-center items-center backdrop-blur-sm' >
+      <div className='bg-black/50 w-full  relative z-10 h-screen flex justify-center items-center backdrop-blur-sm' >
           <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-7 text-black flex justify-center mr-auto pl-5 backdrop-blur-lg bg-white/50">
           <div>
             <div className="from">From</div>
